@@ -1,0 +1,10 @@
+body {
+	background-color: Yellow
+}
+a {
+	font-size: 170%;
+}
+
+a:hover {
+	background-color: pink
+}
